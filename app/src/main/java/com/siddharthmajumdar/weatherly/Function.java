@@ -1,4 +1,4 @@
-package com.mehulgarg.weatherly;
+package com.siddharthmajumdar.weatherly;
 
 import android.os.AsyncTask;
 import android.util.Log;
